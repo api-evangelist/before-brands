@@ -45,7 +45,7 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://forgeglobal.com/before-brands_stock/
+  url: https://beforebrands.com
 - type: LinkedIn
   url: https://www.linkedin.com/company/before-brands-inc.
 x-enrichment:
